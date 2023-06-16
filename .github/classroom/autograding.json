@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Test Example 1",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase1\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "Test Example 2",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase2\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "Test Example 3",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase3\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "Test ChessBoard",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase4\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 20
+    },
+    {
+      "name": "Test Full",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase5\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "Test Trapped Queen",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase6\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 20
+    },
+    {
+      "name": "Test Simple",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase7\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    },
+    {
+      "name": "Test Simple 2",
+      "setup": "",
+      "run": "mvn test -Dtest=\"QueenTest#testCase8\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    }
+  ]
+}
